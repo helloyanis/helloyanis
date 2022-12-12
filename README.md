@@ -1,4 +1,4 @@
 - Hello!
 - I'm a developper who makes stuff to help others!
-- I'm studying Tech in Lille!
+- I'm studying Tech!
 - 🔆 Have a good day!
