@@ -1,0 +1,82 @@
+/*Icons*/
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.5s ease;
+}
+
+header {
+    background-color: #f5f5f5;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-flex;
+    margin-right: 10px;
+    align-items: center;
+    height: 24px;
+}
+nav ul li:hover {
+    cursor: pointer;
+}
+
+nav ul li span {
+    margin-right: 5px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #333;
+        color: #f5f5f5;
+    }
+
+    header,
+    footer {
+        background-color: #444;
+    }
+
+    nav ul li a {
+        color: #f5f5f5;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #f5f5f5;
+        color: #333;
+    }
+
+    header,
+    footer {
+        background-color: #eee;
+    }
+
+    nav ul li a {
+        color: #333;
+    }
+}
