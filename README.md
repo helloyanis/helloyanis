@@ -11,3 +11,4 @@ Contact me by [sending me an email](mailto:hello@xn--0ci5768mq9c.ws)!
 *(and yes, I'm a furry! Couldn't you guess from the URL?)*
 
 🔆 Have a good day!
+<a rel="me" href="https://piaille.fr/@helloyanis"></a>
