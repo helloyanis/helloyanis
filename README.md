@@ -11,4 +11,3 @@ Contact me by [sending me an email](mailto:hello@xn--0ci5768mq9c.ws)!
 
 🔆 Have a good day!
 <a rel="me" href="https://piaille.fr/@helloyanis"></a>
-<meta name="google-site-verification" content="etA2JKDYalk3ZGwI6nVurjERKjwmmjJQwWpcPrLiUwQ" />
