@@ -7,8 +7,7 @@ Contact me by [sending me an email](mailto:hello@xn--0ci5768mq9c.ws)!
 # Check out my very cool website at https://🦊✨💻.ws/
 ## *(Yes, you can have emojis in domain names! How cool is that?)*
 ### *(What? You're saying it's useless? Who cares, it looks fun!)*
-#### *(well, it's not really up-to-date right now, but I'm working on something new!)*
-*(and yes, I'm a furry! Couldn't you guess from the URL?)*
+#### *(and yes, I'm a furry! Couldn't you guess from the URL?)*
 
 🔆 Have a good day!
 <a rel="me" href="https://piaille.fr/@helloyanis"></a>
