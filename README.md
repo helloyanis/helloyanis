@@ -4,7 +4,7 @@ I'm a cool fox who makes stuff to help others! Please take a look at my differen
 
 📩 [hello@🦊✨💻.ws](mailto:hello@xn--0ci5768mq9c.ws)!
 
-![](https://komarev.com/ghpvc/?username=helloyanis&label=Profile+views+(GitHub+and=GitLab)) ⬅ This number is not really meaningful! It counts web crawlers as well, but it still feels good seeing it go up!
+![](https://komarev.com/ghpvc/?username=helloyanis&label=Profile+views) ⬅ This number is not really meaningful! It counts web crawlers as well, but it still feels good seeing it go up!
 # Check out my very cool website at https://🦊✨💻.ws/
 
 🔆 Have a good day!
