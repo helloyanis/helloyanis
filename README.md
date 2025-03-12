@@ -4,7 +4,10 @@ I'm a cool fox who makes stuff to help others! Please take a look at my differen
 
 📩 [hello@🦊✨💻.ws](mailto:hello@xn--0ci5768mq9c.ws)!
 
-![](https://count.getloli.com/@:helloyanis-github?theme=3d-num) profile views!
+### Profile views :
+
+![](https://count.getloli.com/@:helloyanis-github?theme=3d-num)
+
 # Check out my very cool website at https://🦊✨💻.ws/
 
 🔆 Have a good day!
