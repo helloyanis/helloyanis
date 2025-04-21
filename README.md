@@ -10,5 +10,7 @@ I'm a cool fox who makes stuff to help others! Please take a look at my differen
 
 # Check out my very cool website at https://🦊✨💻.ws/
 
+> Encoding issues? Can't see or use emojis? Go to https://xn--0ci5768mq9c.ws
+
 🔆 Have a good day!
 <a rel="me" href="https://piaille.fr/@helloyanis"></a>
