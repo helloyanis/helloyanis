@@ -14,3 +14,4 @@ I'm a cool fox who makes stuff to help others! Please take a look at my differen
 
 🔆 Have a good day!
 <a rel="me" href="https://piaille.fr/@helloyanis"></a>
+<a rel="me" href="https://furries.club/@helloyanis"></a>
