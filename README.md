@@ -20,3 +20,5 @@ Do you like what I do and have some money to throw away?
 [![Support me on ko-fi!](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4P3BXW)
 
 🔆 Have a good day!
+
+> Profile picture by [Xanthe](https://xanthe.dog)
